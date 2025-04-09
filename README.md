@@ -1,5 +1,3 @@
-Sure! Here's the English version of the `README.md` file for your project:
-
 
 # Customer Data Import/Export Tool
 
